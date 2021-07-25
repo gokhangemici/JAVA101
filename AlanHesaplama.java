@@ -19,7 +19,7 @@ public class AlanHesaplama {
         cevre = a + b + c;
         u = cevre / 2;
         alan = Math.sqrt((u * (u - a) * (u - b) * (u - c)));
-        System.out.println("Ucgenin alani: " + alan);
+        System.out.println("Üçgenin alani: " + alan);
 
     }
 }
